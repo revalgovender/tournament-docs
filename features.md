@@ -23,7 +23,7 @@
 5. Player-Captains can submit team results for admins to review.
 6. Player-Captains can submit team for a tournament.
 
-# Automation
+## Automation
 1. Website can start a tournament.
 2. Website can close a tournament.
 3. Website can accept teams for a tournament.
