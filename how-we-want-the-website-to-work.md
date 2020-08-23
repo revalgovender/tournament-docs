@@ -7,6 +7,8 @@
 6. Website will start tournament.
 7. Website will open submisisons for Round 1 results.
 8. Website will close submissions for Round 1 results.
-9. Admins will update Quarter/Semi/Final results.
-10. Admin will update winner.
-11. Admin will close tournament.
+9. Website will declare top x teams.
+10. Admins will review proof.
+11. Admins will update Quarter/Semi/Final results.
+12. Admin will update winner.
+13. Admin will close tournament.
