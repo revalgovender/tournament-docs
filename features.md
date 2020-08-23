@@ -25,7 +25,7 @@
 
 # Automation
 1. Website can start a tournament.
-2. Website cam close a tournament.
+2. Website can close a tournament.
 3. Website can accept teams for a tournament.
 4. Website can close tournament registration.
 5. Website can open Round 1 submissions.
