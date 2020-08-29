@@ -16,3 +16,5 @@
 - General rules
 - First round rules
 - Knockout rules
+- Team results submission start date/time
+- Team results submission end date/time
